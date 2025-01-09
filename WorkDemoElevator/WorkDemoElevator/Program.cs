@@ -7,6 +7,7 @@ Console.WriteLine("Elevator Demo");
 // Vytvoreni instance vytahu
 Elevator elevator = new();
 
+// Simulace nekolika pozadavku
 //elevator.CallFrom(5);
 //elevator.MoveTo(3);
 //elevator.CallFrom(9);

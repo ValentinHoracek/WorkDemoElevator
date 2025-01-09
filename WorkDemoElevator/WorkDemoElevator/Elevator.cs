@@ -9,7 +9,6 @@
         private Queue<Request> Requests;
 
         // Aktualni poloha vytahu
-        // 0 = Error
         private int CurrentFloor = BOTTOM_FLOOR;
 
 
